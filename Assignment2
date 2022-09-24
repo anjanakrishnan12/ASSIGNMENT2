@@ -1,0 +1,5 @@
+frozenset.  
+
+
+myfs=(['RAJU','TOVINO','THOMAS',SURYA'])
+print(myfs)
